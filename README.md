@@ -12,9 +12,9 @@ To write a program for reading the csv file content.
 
 ## PROGRAM:
 ```python
-developed by : Kothai K
+developed by : Kamalesh V
 
-registered number :22006043
+registered number :212222240042
 
 import pandas as pd
 
